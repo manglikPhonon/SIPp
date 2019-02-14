@@ -1,0 +1,7 @@
+Channel: SIP/1000@sipp_trunk
+MaxRetries: 0
+WaitTime:4
+extension: 1000
+CallerID: "Test" <9560585295>
+AlwaysDelete: Yes
+Archive: Yes

@@ -1,0 +1,1 @@
+sudo sipp -set mydest central -sf uac.xml -i 127.0.0.1 192.168.5.168:5060 -m 1 -s 1001 -r 1 -trace_err -trace_msg
