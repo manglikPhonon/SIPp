@@ -2,7 +2,7 @@
 
 # Need to change the path
 
-dir_path=/var/spool/asterisk/outgoing/
+#dir_path=/var/spool/asterisk/outgoing/
 dir_path=/home/local/CORPORATE/naman/work/SIPp/SIPp/test_dir/
 sipp_dir=/home/ubuntu/sippCall/
 
